@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.blank{
+  color: purple;
+}
+.mynav{
+  color: green;
+}
+.container{
+  color: blue;
+}
+.heading1{
+  color: #61dafb;
+}
